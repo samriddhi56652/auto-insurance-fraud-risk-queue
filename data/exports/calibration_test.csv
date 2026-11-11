@@ -1,0 +1,41 @@
+bin,n,mean_predicted,observed_rate,scores,dataset,is_synthetic
+0,409,0.003906256484344997,0.0,calibrated,A - REAL Kaggle claims (test year 1996),False
+1,408,0.005466866795662631,0.0,calibrated,A - REAL Kaggle claims (test year 1996),False
+2,408,0.007211274567694004,0.0024509803921568627,calibrated,A - REAL Kaggle claims (test year 1996),False
+3,408,0.009124863542807749,0.00980392156862745,calibrated,A - REAL Kaggle claims (test year 1996),False
+4,409,0.01138917006778473,0.007334963325183374,calibrated,A - REAL Kaggle claims (test year 1996),False
+5,408,0.03283334950923182,0.06372549019607843,calibrated,A - REAL Kaggle claims (test year 1996),False
+6,408,0.06710261636499155,0.12745098039215685,calibrated,A - REAL Kaggle claims (test year 1996),False
+7,408,0.09183013801402684,0.08333333333333333,calibrated,A - REAL Kaggle claims (test year 1996),False
+8,408,0.12937204064537278,0.09313725490196079,calibrated,A - REAL Kaggle claims (test year 1996),False
+9,409,0.2139667159964321,0.13447432762836187,calibrated,A - REAL Kaggle claims (test year 1996),False
+0,409,0.003488970111183168,0.0,raw_model_output,A - REAL Kaggle claims (test year 1996),False
+1,408,0.0049651346802587915,0.0,raw_model_output,A - REAL Kaggle claims (test year 1996),False
+2,408,0.006645276554146555,0.0024509803921568627,raw_model_output,A - REAL Kaggle claims (test year 1996),False
+3,408,0.008511265486555097,0.00980392156862745,raw_model_output,A - REAL Kaggle claims (test year 1996),False
+4,409,0.010748074371477572,0.007334963325183374,raw_model_output,A - REAL Kaggle claims (test year 1996),False
+5,408,0.032970114297066616,0.06372549019607843,raw_model_output,A - REAL Kaggle claims (test year 1996),False
+6,408,0.06938265288406349,0.12745098039215685,raw_model_output,A - REAL Kaggle claims (test year 1996),False
+7,408,0.09637755136313605,0.08333333333333333,raw_model_output,A - REAL Kaggle claims (test year 1996),False
+8,408,0.13784425531042216,0.09313725490196079,raw_model_output,A - REAL Kaggle claims (test year 1996),False
+9,409,0.23180162990872694,0.13447432762836187,raw_model_output,A - REAL Kaggle claims (test year 1996),False
+0,558,0.007777507011945015,0.0,calibrated,B - SYNTHETIC panel (test year 2025),True
+1,557,0.01102066950572012,0.01615798922800718,calibrated,B - SYNTHETIC panel (test year 2025),True
+2,557,0.014068791893050535,0.02872531418312388,calibrated,B - SYNTHETIC panel (test year 2025),True
+3,557,0.017730585517889374,0.02872531418312388,calibrated,B - SYNTHETIC panel (test year 2025),True
+4,557,0.022229594410983194,0.05206463195691203,calibrated,B - SYNTHETIC panel (test year 2025),True
+5,557,0.029093170009540963,0.0466786355475763,calibrated,B - SYNTHETIC panel (test year 2025),True
+6,557,0.03935851558060402,0.03770197486535009,calibrated,B - SYNTHETIC panel (test year 2025),True
+7,557,0.05978520267531763,0.08258527827648116,calibrated,B - SYNTHETIC panel (test year 2025),True
+8,557,0.12740534030668701,0.10771992818671454,calibrated,B - SYNTHETIC panel (test year 2025),True
+9,558,0.4655088845684517,0.4767025089605735,calibrated,B - SYNTHETIC panel (test year 2025),True
+0,558,0.007862145223864796,0.0,raw_model_output,B - SYNTHETIC panel (test year 2025),True
+1,557,0.0106400825483337,0.01615798922800718,raw_model_output,B - SYNTHETIC panel (test year 2025),True
+2,557,0.013143658597651561,0.02872531418312388,raw_model_output,B - SYNTHETIC panel (test year 2025),True
+3,557,0.01605897689568305,0.02872531418312388,raw_model_output,B - SYNTHETIC panel (test year 2025),True
+4,557,0.01953417177327092,0.05206463195691203,raw_model_output,B - SYNTHETIC panel (test year 2025),True
+5,557,0.024669406096837973,0.0466786355475763,raw_model_output,B - SYNTHETIC panel (test year 2025),True
+6,557,0.03208499200255454,0.03770197486535009,raw_model_output,B - SYNTHETIC panel (test year 2025),True
+7,557,0.04619737060211184,0.08258527827648116,raw_model_output,B - SYNTHETIC panel (test year 2025),True
+8,557,0.09038651041480775,0.10771992818671454,raw_model_output,B - SYNTHETIC panel (test year 2025),True
+9,558,0.34435671891656705,0.4767025089605735,raw_model_output,B - SYNTHETIC panel (test year 2025),True

@@ -1,0 +1,17 @@
+col,value,n
+age_band,18-25,2377
+age_band,26-35,5503
+age_band,36-50,6396
+age_band,51-65,4094
+age_band,66+,1630
+claim_type,Collision,6339
+claim_type,Glass,2479
+claim_type,Natural,881
+claim_type,Theft,789
+claim_type,ThirdParty,3808
+coverage_tier,Basic,123129
+coverage_tier,Comprehensive,180547
+coverage_tier,Standard,197165
+vehicle_segment,Hatchback,9178
+vehicle_segment,SUV,5812
+vehicle_segment,Sedan,5010

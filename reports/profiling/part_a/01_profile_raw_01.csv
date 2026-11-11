@@ -1,0 +1,2 @@
+n_rows,distinct_rows,distinct_policy_numbers,min_policy_number,max_policy_number,n_fraud,fraud_rate
+15420,15420,15420,1,15420,923,0.0599

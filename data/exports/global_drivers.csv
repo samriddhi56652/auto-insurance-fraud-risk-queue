@@ -1,0 +1,58 @@
+feature,mean_abs_shap,mean_shap,dataset,is_synthetic
+fault_policyholder,0.9900820606438309,-0.03898015474926485,A - REAL Kaggle claims (test year 1996),False
+base_policy,0.7302358942635376,-0.0375597683993476,A - REAL Kaggle claims (test year 1996),False
+vehicle_category,0.14467745131476994,0.01266479682139631,A - REAL Kaggle claims (test year 1996),False
+vehicle_price_ord,0.11283708764525491,-0.007535502010410951,A - REAL Kaggle claims (test year 1996),False
+vehicle_age_ord,0.07916007524732319,-0.0026678599582278255,A - REAL Kaggle claims (test year 1996),False
+make,0.07440431569223158,-0.004721656947915354,A - REAL Kaggle claims (test year 1996),False
+supplements_ord,0.07019103968140541,-0.0035082812511626235,A - REAL Kaggle claims (test year 1996),False
+months_accident_to_claim,0.0637097654555322,-0.00416617365025069,A - REAL Kaggle claims (test year 1996),False
+accident_urban,0.06062512557085767,-0.0029925064040338353,A - REAL Kaggle claims (test year 1996),False
+past_claims_ord,0.05404909840024189,-0.003318377411956762,A - REAL Kaggle claims (test year 1996),False
+deductible,0.052094728198737755,-0.001541019749447034,A - REAL Kaggle claims (test year 1996),False
+day_of_week_claimed,0.04927070873132351,0.00011689084334039036,A - REAL Kaggle claims (test year 1996),False
+day_of_week,0.04746021981994608,2.2056146784391716e-05,A - REAL Kaggle claims (test year 1996),False
+address_change,0.038990617098202694,-0.0013206150253162177,A - REAL Kaggle claims (test year 1996),False
+week_of_month,0.024908166765720066,-0.00019449005760402272,A - REAL Kaggle claims (test year 1996),False
+week_of_month_claimed,0.02470316071010131,-0.00031635210914061044,A - REAL Kaggle claims (test year 1996),False
+driver_rating,0.021911439589326797,0.0011323085913985131,A - REAL Kaggle claims (test year 1996),False
+number_of_cars_ord,0.01815412205603915,-0.00024382040192482055,A - REAL Kaggle claims (test year 1996),False
+police_report_filed,0.009253956737397062,-0.001291924766595358,A - REAL Kaggle claims (test year 1996),False
+agent_external,0.006610218395807267,-0.0010709494662124862,A - REAL Kaggle claims (test year 1996),False
+days_policy_claim_ord,0.00024984627037037503,2.5425170564542102e-06,A - REAL Kaggle claims (test year 1996),False
+witness_present,0.0,0.0,A - REAL Kaggle claims (test year 1996),False
+days_policy_accident_none,0.0,0.0,A - REAL Kaggle claims (test year 1996),False
+days_policy_accident_ord,0.0,0.0,A - REAL Kaggle claims (test year 1996),False
+report_delay_days,0.28557534385865446,0.006312193217114124,B - SYNTHETIC panel (test year 2025),True
+claim_type,0.19790204185596996,0.006507305401877762,B - SYNTHETIC panel (test year 2025),True
+just_under_limit,0.18986386396377164,0.007578003793154699,B - SYNTHETIC panel (test year 2025),True
+claim_amount_inr,0.14877619172626,0.0015047807689292205,B - SYNTHETIC panel (test year 2025),True
+police_report_filed,0.14278912675443955,-0.004931871122400417,B - SYNTHETIC panel (test year 2025),True
+monthly_premium_inr,0.13258316811526055,-0.010306445191863557,B - SYNTHETIC panel (test year 2025),True
+amount_pct_diff_prev,0.1066482220387216,-0.028229527216907295,B - SYNTHETIC panel (test year 2025),True
+days_since_policy_start,0.10650011029109595,-0.009712859083214042,B - SYNTHETIC panel (test year 2025),True
+same_shop_as_prev,0.09695752806621145,0.007276563528069683,B - SYNTHETIC panel (test year 2025),True
+days_since_prev_claim,0.08886428286324284,-0.03815316321212984,B - SYNTHETIC panel (test year 2025),True
+prior_similar_claims,0.07709450756285695,0.017046333261102595,B - SYNTHETIC panel (test year 2025),True
+amount_vs_own_avg,0.0680300378288564,-0.03077365438838878,B - SYNTHETIC panel (test year 2025),True
+days_since_upgrade,0.06070032216656162,-0.006456664009255995,B - SYNTHETIC panel (test year 2025),True
+witness_present,0.059199350617627614,0.0001520027284219429,B - SYNTHETIC panel (test year 2025),True
+same_type_as_prev,0.051864807924294626,-0.019415081393462597,B - SYNTHETIC panel (test year 2025),True
+days_since_coverage_change,0.04894715681999856,-0.02977422079004906,B - SYNTHETIC panel (test year 2025),True
+amount_to_limit_ratio,0.043012759576767104,0.0007073798531373403,B - SYNTHETIC panel (test year 2025),True
+vehicle_age_years,0.042858742496168736,-0.00019250304463028353,B - SYNTHETIC panel (test year 2025),True
+shop_claims_prev_365d,0.04149590572858745,0.02188694991536497,B - SYNTHETIC panel (test year 2025),True
+vehicle_segment,0.04106402838368562,0.00040960650569532814,B - SYNTHETIC panel (test year 2025),True
+premium_change_12m,0.038868912138964894,0.022090129090564816,B - SYNTHETIC panel (test year 2025),True
+shop_claims_prev_90d,0.03730952189080214,0.014923780720476879,B - SYNTHETIC panel (test year 2025),True
+third_party_is_customer,0.03100483949636166,0.007555777629866534,B - SYNTHETIC panel (test year 2025),True
+shared_contact_policyholders,0.024568745202444894,0.002880842209217763,B - SYNTHETIC panel (test year 2025),True
+tier_rank,0.0209593770451048,-0.0006880579979834445,B - SYNTHETIC panel (test year 2025),True
+amount_z_own_history,0.020286711699693247,0.010842710367270036,B - SYNTHETIC panel (test year 2025),True
+shared_contact_claims_prev_180d,0.015229797911177763,0.004686888261520539,B - SYNTHETIC panel (test year 2025),True
+claims_prev_6m,0.008495404664640738,0.0010848162895848606,B - SYNTHETIC panel (test year 2025),True
+claim_freq_change_3m,0.007236923114828625,-0.00011325468649798136,B - SYNTHETIC panel (test year 2025),True
+claims_prev_3m,0.0032977698352794987,0.00013882212999086197,B - SYNTHETIC panel (test year 2025),True
+claims_prev_12m,0.0,0.0,B - SYNTHETIC panel (test year 2025),True
+prior_claims_total,0.0,0.0,B - SYNTHETIC panel (test year 2025),True
+third_party_claims_prev_180d,0.0,0.0,B - SYNTHETIC panel (test year 2025),True

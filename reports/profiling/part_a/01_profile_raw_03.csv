@@ -1,0 +1,178 @@
+col,val,n,n_fraud,fraud_rate
+AccidentArea,Rural,1598,133,0.0832
+AccidentArea,Urban,13822,790,0.0572
+AddressChange_Claim,1 year,170,11,0.0647
+AddressChange_Claim,2 to 3 years,291,51,0.1753
+AddressChange_Claim,4 to 8 years,631,33,0.0523
+AddressChange_Claim,no change,14324,825,0.0576
+AddressChange_Claim,under 6 months,4,3,0.75
+AgeOfPolicyHolder,16 to 17,320,31,0.0969
+AgeOfPolicyHolder,18 to 20,15,2,0.1333
+AgeOfPolicyHolder,21 to 25,108,16,0.1481
+AgeOfPolicyHolder,26 to 30,613,33,0.0538
+AgeOfPolicyHolder,31 to 35,5593,360,0.0644
+AgeOfPolicyHolder,36 to 40,4043,237,0.0586
+AgeOfPolicyHolder,41 to 50,2828,144,0.0509
+AgeOfPolicyHolder,51 to 65,1392,70,0.0503
+AgeOfPolicyHolder,over 65,508,30,0.0591
+AgeOfVehicle,2 years,73,3,0.0411
+AgeOfVehicle,3 years,152,13,0.0855
+AgeOfVehicle,4 years,229,21,0.0917
+AgeOfVehicle,5 years,1357,95,0.07
+AgeOfVehicle,6 years,3448,228,0.0661
+AgeOfVehicle,7 years,5807,325,0.056
+AgeOfVehicle,more than 7,3981,206,0.0517
+AgeOfVehicle,new,373,32,0.0858
+AgentType,External,15179,919,0.0605
+AgentType,Internal,241,4,0.0166
+BasePolicy,All Perils,4449,452,0.1016
+BasePolicy,Collision,5962,435,0.073
+BasePolicy,Liability,5009,36,0.0072
+DayOfWeek,Friday,2445,154,0.063
+DayOfWeek,Monday,2616,160,0.0612
+DayOfWeek,Saturday,1982,132,0.0666
+DayOfWeek,Sunday,1745,122,0.0699
+DayOfWeek,Thursday,2173,120,0.0552
+DayOfWeek,Tuesday,2300,120,0.0522
+DayOfWeek,Wednesday,2159,115,0.0533
+DayOfWeekClaimed,0,1,0,0.0
+DayOfWeekClaimed,Friday,2497,164,0.0657
+DayOfWeekClaimed,Monday,3757,216,0.0575
+DayOfWeekClaimed,Saturday,127,10,0.0787
+DayOfWeekClaimed,Sunday,52,3,0.0577
+DayOfWeekClaimed,Thursday,2660,144,0.0541
+DayOfWeekClaimed,Tuesday,3375,198,0.0587
+DayOfWeekClaimed,Wednesday,2951,188,0.0637
+Days_Policy_Accident,1 to 7,14,1,0.0714
+Days_Policy_Accident,15 to 30,49,3,0.0612
+Days_Policy_Accident,8 to 15,55,5,0.0909
+Days_Policy_Accident,more than 30,15247,905,0.0594
+Days_Policy_Accident,none,55,9,0.1636
+Days_Policy_Claim,15 to 30,56,6,0.1071
+Days_Policy_Claim,8 to 15,21,3,0.1429
+Days_Policy_Claim,more than 30,15342,914,0.0596
+Days_Policy_Claim,none,1,0,0.0
+Deductible,300,8,2,0.25
+Deductible,400,14838,856,0.0577
+Deductible,500,263,47,0.1787
+Deductible,700,311,18,0.0579
+DriverRating,1,3944,232,0.0588
+DriverRating,2,3801,214,0.0563
+DriverRating,3,3884,242,0.0623
+DriverRating,4,3791,235,0.062
+Fault,Policy Holder,11230,886,0.0789
+Fault,Third Party,4190,37,0.0088
+Make,Accura,472,59,0.125
+Make,BMW,15,1,0.0667
+Make,Chevrolet,1681,94,0.0559
+Make,Dodge,109,2,0.0183
+Make,Ferrari,2,0,0.0
+Make,Ford,450,33,0.0733
+Make,Honda,2801,179,0.0639
+Make,Jaguar,6,0,0.0
+Make,Lexus,1,0,0.0
+Make,Mazda,2354,123,0.0523
+Make,Mecedes,4,1,0.25
+Make,Mercury,83,6,0.0723
+Make,Nisson,30,1,0.0333
+Make,Pontiac,3837,213,0.0555
+Make,Porche,5,0,0.0
+Make,Saab,108,11,0.1019
+Make,Saturn,58,6,0.1034
+Make,Toyota,3121,186,0.0596
+Make,VW,283,8,0.0283
+MaritalStatus,Divorced,76,3,0.0395
+MaritalStatus,Married,10625,639,0.0601
+MaritalStatus,Single,4684,278,0.0594
+MaritalStatus,Widow,35,3,0.0857
+Month,Apr,1280,80,0.0625
+Month,Aug,1127,84,0.0745
+Month,Dec,1285,62,0.0482
+Month,Feb,1266,82,0.0648
+Month,Jan,1411,87,0.0617
+Month,Jul,1257,60,0.0477
+Month,Jun,1321,80,0.0606
+Month,Mar,1360,102,0.075
+Month,May,1367,94,0.0688
+Month,Nov,1201,46,0.0383
+Month,Oct,1305,70,0.0536
+Month,Sep,1240,76,0.0613
+MonthClaimed,0,1,0,0.0
+MonthClaimed,Apr,1271,82,0.0645
+MonthClaimed,Aug,1126,92,0.0817
+MonthClaimed,Dec,1146,49,0.0428
+MonthClaimed,Feb,1287,78,0.0606
+MonthClaimed,Jan,1446,92,0.0636
+MonthClaimed,Jul,1225,56,0.0457
+MonthClaimed,Jun,1293,78,0.0603
+MonthClaimed,Mar,1348,97,0.072
+MonthClaimed,May,1411,102,0.0723
+MonthClaimed,Nov,1285,46,0.0358
+MonthClaimed,Oct,1339,73,0.0545
+MonthClaimed,Sep,1242,78,0.0628
+NumberOfCars,1 vehicle,14316,850,0.0594
+NumberOfCars,2 vehicles,709,43,0.0606
+NumberOfCars,3 to 4,372,29,0.078
+NumberOfCars,5 to 8,21,1,0.0476
+NumberOfCars,more than 8,2,0,0.0
+NumberOfSuppliments,1 to 2,2489,159,0.0639
+NumberOfSuppliments,3 to 5,2017,97,0.0481
+NumberOfSuppliments,more than 5,3867,195,0.0504
+NumberOfSuppliments,none,7047,472,0.067
+PastNumberOfClaims,1,3573,222,0.0621
+PastNumberOfClaims,2 to 4,5485,294,0.0536
+PastNumberOfClaims,more than 4,2010,68,0.0338
+PastNumberOfClaims,none,4352,339,0.0779
+PoliceReportFiled,No,14992,907,0.0605
+PoliceReportFiled,Yes,428,16,0.0374
+PolicyType,Sedan - All Perils,4087,411,0.1006
+PolicyType,Sedan - Collision,5584,384,0.0688
+PolicyType,Sedan - Liability,4987,36,0.0072
+PolicyType,Sport - All Perils,22,0,0.0
+PolicyType,Sport - Collision,348,48,0.1379
+PolicyType,Sport - Liability,1,0,0.0
+PolicyType,Utility - All Perils,340,41,0.1206
+PolicyType,Utility - Collision,30,3,0.1
+PolicyType,Utility - Liability,21,0,0.0
+RepNumber,1,987,63,0.0638
+RepNumber,10,986,66,0.0669
+RepNumber,11,948,56,0.0591
+RepNumber,12,977,47,0.0481
+RepNumber,13,892,58,0.065
+RepNumber,14,941,57,0.0606
+RepNumber,15,977,49,0.0502
+RepNumber,16,967,53,0.0548
+RepNumber,2,956,55,0.0575
+RepNumber,3,949,60,0.0632
+RepNumber,4,912,50,0.0548
+RepNumber,5,987,52,0.0527
+RepNumber,6,942,66,0.0701
+RepNumber,7,1069,74,0.0692
+RepNumber,8,931,52,0.0559
+RepNumber,9,999,65,0.0651
+Sex,Female,2420,105,0.0434
+Sex,Male,13000,818,0.0629
+VehicleCategory,Sedan,9671,795,0.0822
+VehicleCategory,Sport,5358,84,0.0157
+VehicleCategory,Utility,391,44,0.1125
+VehiclePrice,20000 to 29000,8079,421,0.0521
+VehiclePrice,30000 to 39000,3533,175,0.0495
+VehiclePrice,40000 to 59000,461,31,0.0672
+VehiclePrice,60000 to 69000,87,4,0.046
+VehiclePrice,less than 20000,1096,103,0.094
+VehiclePrice,more than 69000,2164,189,0.0873
+WeekOfMonth,1,3187,200,0.0628
+WeekOfMonth,2,3558,225,0.0632
+WeekOfMonth,3,3640,215,0.0591
+WeekOfMonth,4,3398,192,0.0565
+WeekOfMonth,5,1637,91,0.0556
+WeekOfMonthClaimed,1,3450,220,0.0638
+WeekOfMonthClaimed,2,3720,208,0.0559
+WeekOfMonthClaimed,3,3583,221,0.0617
+WeekOfMonthClaimed,4,3433,209,0.0609
+WeekOfMonthClaimed,5,1234,65,0.0527
+WitnessPresent,No,15333,920,0.06
+WitnessPresent,Yes,87,3,0.0345
+Year,1994,6142,409,0.0666
+Year,1995,5195,301,0.0579
+Year,1996,4083,213,0.0522

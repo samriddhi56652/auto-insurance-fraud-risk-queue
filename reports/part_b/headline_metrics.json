@@ -1,0 +1,31 @@
+{
+  "selected_model": "lgbm_unweighted",
+  "params": {
+    "num_leaves": 7,
+    "n_estimators": 200,
+    "min_child_samples": 30
+  },
+  "n": 5572,
+  "n_fraud": 489,
+  "base_rate": 0.08776022972002871,
+  "pr_auc": 0.4844376140158015,
+  "roc_auc": 0.8366043916386754,
+  "precision_top1": 0.75,
+  "recall_top1": 0.08588957055214724,
+  "n_reviewed_top1": 56,
+  "precision_top5": 0.6738351254480287,
+  "recall_top5": 0.38445807770961143,
+  "n_reviewed_top5": 279,
+  "precision_top10": 0.47755834829443444,
+  "recall_top10": 0.5439672801635992,
+  "n_reviewed_top10": 557,
+  "brier": 0.058253830684789065,
+  "pr_auc_95ci": [
+    0.4381970348281081,
+    0.5365023721280147
+  ],
+  "precision_top5_95ci": [
+    0.6021505376344086,
+    0.7311827956989247
+  ]
+}

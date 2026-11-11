@@ -1,0 +1,2 @@
+distinct_rows,unknown_policyholder,amount_unparseable,amount_non_positive,date_unparseable,report_before_incident,incident_before_policy_start,incident_after_policy_end,incident_before_panel,min_amount,max_amount,median_amount,p99_report_delay_days
+14239,0,0,0,0,18,13,0,16,1000.000000000,1000000.000000000,30730.000000000,26

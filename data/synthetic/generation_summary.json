@@ -1,0 +1,28 @@
+{
+  "policyholders": {
+    "rows": 20000,
+    "sha256": "7b885d4f82d5c75425706c91018a79a93e3817b8e1bf59aed41efc52c6a561f1"
+  },
+  "policy_months": {
+    "rows": 500841,
+    "sha256": "1c56e3229409886c67f8aa06d758280f282c6baa97b23509401719289e1aca36"
+  },
+  "claims": {
+    "rows": 14296,
+    "sha256": "16923fb50c3e59443c4253b369401daffe4e5bc4772f10cd43f53baf68572b33"
+  },
+  "ground_truth_planted": {
+    "rows": 1286,
+    "sha256": "b8d602a865dfee5562196fe3080bf11f71e8b5897ca26ff4e10503224a6748af"
+  },
+  "planted_claims_by_pattern": {
+    "early_claim_after_upgrade": 100,
+    "early_claim_new_policy": 100,
+    "repeat_similar": 252,
+    "rising_frequency": 343,
+    "staged_ring": 126,
+    "under_approval_limit": 229,
+    "unpatterned": 136
+  },
+  "seed": 20261111
+}

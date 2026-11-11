@@ -1,0 +1,4 @@
+split,claims,n_fraud,fraud_rate
+train,6141,409,0.0666
+calibrate,5195,301,0.0579
+test,4083,213,0.0522

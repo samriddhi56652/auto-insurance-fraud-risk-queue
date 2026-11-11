@@ -1,0 +1,3 @@
+features,calibrate_pr_auc,test_pr_auc
+without accident month (main model),0.17924328490219937,0.14266205646478844
+with accident month,0.11315759119337915,0.1457320468465049

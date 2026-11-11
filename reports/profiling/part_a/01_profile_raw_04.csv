@@ -1,0 +1,2 @@
+age_not_numeric,age_zero,age_1_to_15,min_nonzero_age,max_age,day_claimed_zero,month_claimed_zero
+0,320,0,16,80,1,1

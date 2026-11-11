@@ -1,0 +1,85 @@
+===== outcome: any_claim =====
+--- FIXED EFFECTS ---
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:              any_claim   R-squared:                        0.0002
+Estimator:                   PanelOLS   R-squared (Between):              0.1488
+No. Observations:              500841   R-squared (Within):               0.0002
+Date:                Wed, Nov 11 2026   R-squared (Overall):              0.0165
+Time:                        20:51:32   Log-likelihood                  2.05e+05
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      25.197
+Entities:                       20000   P-value                           0.0000
+Avg Obs:                       25.042   Distribution:                F(4,480802)
+Min Obs:                       1.0000                                           
+Max Obs:                       36.000   F-statistic (robust):             16.198
+                                        P-value                           0.0000
+Time periods:                      36   Distribution:                F(4,480802)
+Avg Obs:                    1.391e+04                                           
+Min Obs:                    1.103e+04                                           
+Max Obs:                    1.605e+04                                           
+                                                                                
+                                 Parameter Estimates                                  
+======================================================================================
+                    Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+--------------------------------------------------------------------------------------
+recent_upgrade_2m      0.0196     0.0043     4.5769     0.0000      0.0112      0.0280
+new_policy_3m         -0.0022     0.0011    -1.9444     0.0519     -0.0044   1.758e-05
+tier_standard          0.0072     0.0024     3.0273     0.0025      0.0025      0.0119
+tier_comprehensive     0.0160     0.0033     4.7852     0.0000      0.0095      0.0226
+======================================================================================
+
+F-test for Poolability: 1.4526
+P-value: 0.0000
+Distribution: F(20034,480802)
+
+Included effects: Entity, Time
+--- RANDOM EFFECTS (theta mean 0.115) ---
+recent_upgrade_2m     0.025124
+new_policy_3m        -0.002013
+tier_standard         0.012416
+tier_comprehensive    0.018612
+Hausman chi2=54.71 df=4 p=3.742e-11
+
+===== outcome: fraud_claim =====
+--- FIXED EFFECTS ---
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:            fraud_claim   R-squared:                        0.0019
+Estimator:                   PanelOLS   R-squared (Between):             -0.0599
+No. Observations:              500841   R-squared (Within):               0.0019
+Date:                Wed, Nov 11 2026   R-squared (Overall):             -0.0055
+Time:                        20:52:08   Log-likelihood                 8.535e+05
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      233.00
+Entities:                       20000   P-value                           0.0000
+Avg Obs:                       25.042   Distribution:                F(4,480802)
+Min Obs:                       1.0000                                           
+Max Obs:                       36.000   F-statistic (robust):             26.299
+                                        P-value                           0.0000
+Time periods:                      36   Distribution:                F(4,480802)
+Avg Obs:                    1.391e+04                                           
+Min Obs:                    1.103e+04                                           
+Max Obs:                    1.605e+04                                           
+                                                                                
+                                 Parameter Estimates                                  
+======================================================================================
+                    Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+--------------------------------------------------------------------------------------
+recent_upgrade_2m      0.0238     0.0026     9.2706     0.0000      0.0188      0.0288
+new_policy_3m          0.0018     0.0004     4.0843     0.0000      0.0009      0.0026
+tier_standard         -0.0033     0.0004    -8.3602     0.0000     -0.0041     -0.0025
+tier_comprehensive    -0.0023     0.0005    -4.3006     0.0000     -0.0033     -0.0012
+======================================================================================
+
+F-test for Poolability: 2.4530
+P-value: 0.0000
+Distribution: F(20034,480802)
+
+Included effects: Entity, Time
+--- RANDOM EFFECTS (theta mean 0.309) ---
+recent_upgrade_2m     0.021891
+new_policy_3m         0.002172
+tier_standard         0.001638
+tier_comprehensive    0.001452
+Hausman chi2=139.32 df=4 p=3.951e-29

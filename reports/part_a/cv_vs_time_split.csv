@@ -1,0 +1,4 @@
+validation,pr_auc,pr_auc_sd
+stratified 5-fold CV on 1994-95 (mean of folds),0.23653820949800525,0.030149140604465177
+"time split: train 1994, test 1996",0.14266205646478844,
+"time split: train 1994-95, test 1996",0.1537236132453894,

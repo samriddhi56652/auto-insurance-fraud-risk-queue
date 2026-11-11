@@ -1,0 +1,5 @@
+loaded_at_utc,table,source_file,sha256,file_data_rows,bq_rows,columns,check
+2026-11-11T15:17:50+00:00,fraud_raw.a_claims,fraud_oracle.csv,8b6aa59764ef4f8b058598d3e8f325ef3623f52f4b1cd4ef946baebb5ccfa9a6,15420,15420,33,OK
+2026-11-11T15:17:59+00:00,fraud_raw.b_policyholders,policyholders.csv,7b885d4f82d5c75425706c91018a79a93e3817b8e1bf59aed41efc52c6a561f1,20000,20000,8,OK
+2026-11-11T15:18:12+00:00,fraud_raw.b_policy_months,policy_months.csv,1c56e3229409886c67f8aa06d758280f282c6baa97b23509401719289e1aca36,500841,500841,4,OK
+2026-11-11T15:18:19+00:00,fraud_raw.b_claims,claims.csv,16923fb50c3e59443c4253b369401daffe4e5bc4772f10cd43f53baf68572b33,14296,14296,11,OK

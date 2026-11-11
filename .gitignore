@@ -1,0 +1,23 @@
+# Secrets and private working notes
+.env
+INTERVIEW_NOTES.md
+PROGRESS.md
+ERRORS.md
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Synthetic data is regenerated from a fixed seed (python -m src.generate_panel)
+data/synthetic/*.csv
+
+# Model artefacts (rebuilt by the pipeline)
+models/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
